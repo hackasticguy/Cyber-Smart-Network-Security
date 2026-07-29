@@ -36,11 +36,11 @@ This project was developed as part of the **Cyber Smart Virtual Internship**. It
 
 ### 🖥️ Network Topology
 
-![Network Topology](assets/network-configuration.png)
+![Network Topology](assests/network-configuration.png)
 
 ### ✅ Assessment Result (12/12)
 
-![Assessment Result](assets/check-result.png)
+![Assessment Result](assests/check-result.png)
 
 ---
 
